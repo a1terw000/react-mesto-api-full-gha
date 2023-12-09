@@ -1,4 +1,4 @@
-export const BASE_URL = "http://api.lazya.nomoredomainsmonster.ru"
+export const BASE_URL = "https://api.lazya.nomoredomainsmonster.ru"
 
 function checkResponse(res) {
   if (res.ok) {

@@ -99,7 +99,7 @@ class Api {
 }
 
 const api = new Api({
-  baseUrl: 'http://api.lazya.nomoredomainsmonster.ru',
+  baseUrl: 'https://api.lazya.nomoredomainsmonster.ru',
 });
 
 export default api;
