@@ -9,8 +9,8 @@
 
 ## Ссылки на проект
 
-IP-адрес 84.252.130.57
+IP-адрес 158.160.127.224
 
-Frontend https://...
+Frontend https://
 
-Backend https://...
+Backend https://
