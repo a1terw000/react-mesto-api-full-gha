@@ -11,6 +11,6 @@
 
 IP-адрес 158.160.127.224
 
-Frontend https://
+Frontend https://lazya.nomoredomainsmonster.ru
 
-Backend https://
+Backend https://api.lazya.nomoredomainsmonster.ru
